@@ -26,3 +26,5 @@ ImageGallery.propTypes = {
   ),
   openModal: propTypes.func.isRequired,
 };
+
+// dbd
